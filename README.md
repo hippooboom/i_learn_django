@@ -1,1 +1,1 @@
-# i_learn_django
+warning! code from noob!
